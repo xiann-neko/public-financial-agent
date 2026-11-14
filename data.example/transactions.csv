@@ -1,0 +1,6 @@
+id,date,type,amount,category,account,to_account,payee,note,goal,source,created_at
+20261030-001,2026-10-30,income,1500000,Salary,GCash,,Employer,example payday,,manual,2026-10-30T09:00:00
+20261031-001,2026-10-31,transfer,100000,,GCash,Savings,,example savings,Emergency fund,manual,2026-10-31T09:00:00
+20261102-001,2026-11-02,expense,124550,Groceries,Cash,,Puregold,example,,manual,2026-11-02T18:00:00
+20261105-001,2026-11-05,expense,35000,Dining & food delivery,GCash,,Grab food,example,,manual,2026-11-05T12:30:00
+20261108-001,2026-11-08,expense,89900,Impulse / wants,GCash,,Shopee,example,,manual,2026-11-08T22:10:00

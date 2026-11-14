@@ -1,0 +1,14 @@
+{
+  "installments": [
+    {
+      "id": "i001",
+      "card": "Example Credit Card",
+      "item": "Example phone",
+      "category": "Shopping (planned)",
+      "total": 2400000,
+      "months": 12,
+      "monthly": 200000,
+      "first_billing": "2026-10-25"
+    }
+  ]
+}

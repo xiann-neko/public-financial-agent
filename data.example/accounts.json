@@ -1,0 +1,38 @@
+{
+  "accounts": [
+    {
+      "name": "Cash",
+      "opening_balance": 0
+    },
+    {
+      "name": "GCash",
+      "opening_balance": 0
+    },
+    {
+      "name": "Savings",
+      "opening_balance": 0
+    },
+    {
+      "name": "Example Credit Card",
+      "opening_balance": 1200000,
+      "kind": "credit_card",
+      "due_day": 25,
+      "credit_limit": 5000000,
+      "rate_monthly": 3.0,
+      "payment": 300000,
+      "end": null,
+      "due_date": null
+    },
+    {
+      "name": "Example Loan",
+      "opening_balance": 6000000,
+      "kind": "loan",
+      "due_day": 5,
+      "credit_limit": null,
+      "rate_monthly": null,
+      "payment": 500000,
+      "end": "2027-12",
+      "due_date": null
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+#!/bin/sh
+PYTHONPATH="$(cd "$(dirname "$0")" && pwd)${PYTHONPATH:+:$PYTHONPATH}" exec python3 -m fincore "$@"

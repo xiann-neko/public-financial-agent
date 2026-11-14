@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "name": "Groceries",
+      "kind": "expense",
+      "limit": 300000,
+      "essential": true,
+      "impulse": false
+    },
+    {
+      "name": "Dining & food delivery",
+      "kind": "expense",
+      "limit": 150000,
+      "essential": false,
+      "impulse": false
+    },
+    {
+      "name": "Transport",
+      "kind": "expense",
+      "limit": 150000,
+      "essential": true,
+      "impulse": false
+    },
+    {
+      "name": "Bills & utilities",
+      "kind": "expense",
+      "limit": 400000,
+      "essential": true,
+      "impulse": false
+    },
+    {
+      "name": "Rent/housing",
+      "kind": "expense",
+      "limit": 600000,
+      "essential": true,
+      "impulse": false
+    },
+    {
+      "name": "Health",
+      "kind": "expense",
+      "limit": 100000,
+      "essential": true,
+      "impulse": false
+    },
+    {
+      "name": "Family support (padala)",
+      "kind": "expense",
+      "limit": 300000,
+      "essential": true,
+      "impulse": false
+    },
+    {
+      "name": "Shopping (planned)",
+      "kind": "expense",
+      "limit": 150000,
+      "essential": false,
+      "impulse": false
+    },
+    {
+      "name": "Impulse / wants",
+      "kind": "expense",
+      "limit": 100000,
+      "essential": false,
+      "impulse": true
+    },
+    {
+      "name": "Entertainment & subscriptions",
+      "kind": "expense",
+      "limit": 80000,
+      "essential": false,
+      "impulse": false
+    },
+    {
+      "name": "Other",
+      "kind": "expense",
+      "limit": 50000,
+      "essential": false,
+      "impulse": false
+    },
+    {
+      "name": "Salary",
+      "kind": "income",
+      "limit": null,
+      "essential": false,
+      "impulse": false
+    },
+    {
+      "name": "Side income",
+      "kind": "income",
+      "limit": null,
+      "essential": false,
+      "impulse": false
+    },
+    {
+      "name": "Other income",
+      "kind": "income",
+      "limit": null,
+      "essential": false,
+      "impulse": false
+    }
+  ]
+}
